@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TracePH</string>
+    <string name="title_home">Home</string>
+    <string name="title_info">Info</string>
+    <string name="no_symptoms">I\'m experiencing symptoms</string>
+    <string name="with_symptoms">I\'m not experiencing symptoms</string>
+    <string name="near_lab">Find the nearest COVID-19 Testing Laboratories</string>
+</resources>
